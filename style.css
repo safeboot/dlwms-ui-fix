@@ -61,6 +61,10 @@
         background-image: url("https://img.icons8.com/?size=32&id=pj6wp6z7skPd&format=png");
     }
     
+    .logo img {
+        content: url("https://raw.githubusercontent.com/safeboot/dlwms-ui-fix/refs/heads/main/assets/logo.png");
+    }
+    
     #menu {
         height: auto;
         background: none;
@@ -267,6 +271,7 @@
                 margin-left: 0 !important;
                 border: none;
                 object-fit: contain;
+                content: url("https://raw.githubusercontent.com/safeboot/dlwms-ui-fix/refs/heads/main/assets/search.png");
             }
         }
         
